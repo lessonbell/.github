@@ -37,7 +37,9 @@ A small Windows app for reception desks. Connect a supported USB scanner, select
 
 **[Explore the app and setup guide →](https://github.com/lessonbell/windows-attendance-releases)**
 
-> **Public release coming soon.** The download page is ready; the first public app package has not been published yet.
+**[Download the latest Windows app →](https://github.com/lessonbell/windows-attendance-releases/releases/latest)**
+
+Version 1.1.0 is available as a portable ZIP for Windows 10 22H2 and Windows 11, x64.
 
 ## Need a hand?
 
